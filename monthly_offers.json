@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "updated_at": "2025-09-22T21:09:23.496382",
+  "current_offer": {
+    "title": "Сентябрь: «Чекап Железный контроль»",
+    "description": "Пакет анализов + консультация для оценки железа и витаминов. Быстрый маршрут без лишнего.",
+    "price": "6 000 ₽",
+    "valid_until": "2025-09-30",
+    "cta_text": "Подробнее и записаться",
+    "cta_link": "https://preventika.example/offer/iron-check"
+  },
+  "queue": [
+    {
+      "title": "Октябрь: «Прививка без риска»",
+      "description": "Комплекс перед вакцинацией: анализы, ЭКГ, УЗИ и осмотр.",
+      "price": "17 480 ₽",
+      "valid_from": "2025-10-01",
+      "valid_until": "2025-10-31",
+      "cta_text": "Состав и запись",
+      "cta_link": "https://preventika.example/offer/vax-safe"
+    }
+  ]
+}
