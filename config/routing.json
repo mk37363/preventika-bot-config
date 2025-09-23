@@ -1,0 +1,10 @@
+{
+  "staging": {
+    "allowed_phones": ["+79951527087"],
+    "allowed_channel_ids": []
+  },
+  "production": {
+    "allowed_phones": ["+79285501212"],
+    "allowed_channel_ids": []
+  }
+}
