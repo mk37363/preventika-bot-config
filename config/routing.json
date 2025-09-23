@@ -1,10 +1,16 @@
 {
   "staging": {
-    "allowed_phones": ["+79951527087"],
-    "allowed_channel_ids": []
+    "channel": "+79951527087",
+    "intents": {
+      "greeting": "config/replies/greeting.json"
+    },
+    "catalog": "config/catalog/services_min.json"
   },
   "production": {
-    "allowed_phones": ["+79285501212"],
-    "allowed_channel_ids": []
+    "channel": "+79285501212",
+    "intents": {
+      "greeting": "config/replies/greeting.json"
+    },
+    "catalog": "config/catalog/services_min.json"
   }
 }
